@@ -1,3 +1,5 @@
 File revert has created.
-First modification
+<<<<<<< HEAD
 Second modification.
+=======
+>>>>>>> parent of 0f64eed (f_revert first modificaiton)
